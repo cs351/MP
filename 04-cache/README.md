@@ -1,4 +1,4 @@
-# "Machine problem 4: Cache simulation & optimization
+# Machine problem 4: Cache simulation & optimization
 
 ## Overview
 
