@@ -1,5 +1,6 @@
 .vagrant/
 .vscode/
+.DS_store
 
 # Prerequisites
 *.d
